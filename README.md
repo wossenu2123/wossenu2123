@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wossenu2123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming
+- 🌱 I am certified with programming fundamentals and also now I am developing my skills through online courses
 - 💞️ I’m looking to collaborate on programmers
 - 📫 my address is wossenuw@gmail.com
 - 😄 Pronouns: He
